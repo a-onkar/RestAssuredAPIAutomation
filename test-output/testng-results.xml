@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-23T01:53:01 IST" name="Default suite" finished-at="2021-09-23T01:53:04 IST" duration-ms="2945">
+    <groups>
+    </groups>
+    <test started-at="2021-09-23T01:53:01 IST" name="Default test" finished-at="2021-09-23T01:53:04 IST" duration-ms="2945">
+      <class name="TC_01">
+        <test-method signature="getUser()[pri:0, instance:TC_01@1ba9117e]" started-at="2021-09-23T01:53:01 IST" name="getUser" finished-at="2021-09-23T01:53:04 IST" duration-ms="2880" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUser -->
+      </class> <!-- TC_01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
